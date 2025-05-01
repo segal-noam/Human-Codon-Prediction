@@ -18,4 +18,4 @@ Predicting the evolutionarily selected codons of human protein-coding genes, usi
       1. Various accuracy graphs
       2. Gene Set Enrichment Analysis for accuracy difference metric
 2. Data: The data used for each stage of the source.
-3. Graphs: The interesting graphs detailing the results of the project.
+3. Graphs & Results: The interesting graphs detailing the results of the project.
