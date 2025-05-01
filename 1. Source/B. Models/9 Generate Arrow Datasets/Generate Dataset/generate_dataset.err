@@ -1,0 +1,15 @@
+pyxis: creating container filesystem ...
+pyxis: starting container ...
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+cudf 24.4.0 requires pyarrow<15.0.0a0,>=14.0.1, but you have pyarrow 18.0.0 which is incompatible.
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 24.1.2 -> 24.3.1
+[notice] To update, run: python -m pip install --upgrade pip
+WARNING: Running pip as the 'root' user can result in broken permissions and conflicting behaviour with the system package manager, possibly rendering your system unusable.It is recommended to use a virtual environment instead: https://pip.pypa.io/warnings/venv. Use the --root-user-action option if you know what you are doing and want to suppress this warning.
+
+[notice] A new release of pip is available: 24.1.2 -> 24.3.1
+[notice] To update, run: python -m pip install --upgrade pip
+Saving the dataset (0/1 shards):   0%|          | 0/56073 [00:00<?, ? examples/s]Saving the dataset (0/1 shards):  84%|████████▍ | 47000/56073 [00:00<00:00, 431978.93 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 56073/56073 [00:00<00:00, 431978.93 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 56073/56073 [00:00<00:00, 107731.29 examples/s]
+Saving the dataset (0/1 shards):   0%|          | 0/126302 [00:00<?, ? examples/s]Saving the dataset (0/1 shards): 100%|██████████| 126302/126302 [00:00<00:00, 1136510.17 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 126302/126302 [00:00<00:00, 1136510.17 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 126302/126302 [00:00<00:00, 378099.10 examples/s] 
+Saving the dataset (0/1 shards):   0%|          | 0/15976 [00:00<?, ? examples/s]Saving the dataset (1/1 shards): 100%|██████████| 15976/15976 [00:00<00:00, 110369.51 examples/s]Saving the dataset (1/1 shards): 100%|██████████| 15976/15976 [00:00<00:00, 110212.49 examples/s]

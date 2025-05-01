@@ -1,0 +1,18 @@
+{
+    "Description":"This is an evaluation configuration for codon optimization model based on BART language model.",
+    "project_name": "Human Codon Prediction",
+    "dataset_path": "./data/dataset/dataset_30/",
+    "tokenizer_path": "./tokenizer/",
+    "checkpoint_flag": true,
+    "checkpoint_path": "./models/bart30/pretrain/Pretrain_30_HumanCodonPrediction/best_model",
+    "special_token_lower_threshold": 64,
+    "aa_window_size": 30,
+    "model_type":"BART",
+    "outdir": "./models/bart30/pretrain/Pretrain_30_HumanCodonPrediction/best_model",
+    "outfile": "bart_30_evaluation.csv",
+    "out_dict": ["prot_len","num_of_correct_predicted_codons",
+        "accuracy","cross_entropy_loss","entropy","query_codons",
+        "subject_codons","pred_codons"],
+    "orig_dict": ["transcript"],
+    "calc_stats": true
+}

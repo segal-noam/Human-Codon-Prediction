@@ -1,0 +1,165 @@
+Num of threads: 256
+Num of PDB entries: 21079
+No matching chain found in 1X7J for UniProt Q15788
+No matching chain found in 1X78 for UniProt Q15788
+No matching chain found in 1X7B for UniProt Q15788
+No matching chain found in 1YYE for UniProt Q15788
+Error processing 3QBJ: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 3BBB: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 3BBC: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 5JBY for UniProt P0CG47
+No matching chain found in 6NJG for UniProt P0CG47
+Error processing 8J07: ('Connection broken: IncompleteRead(11666064 bytes read, 58053514 more expected)', IncompleteRead(11666064 bytes read, 58053514 more expected))
+Error processing 7OW7: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 6IP6: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 6WJN: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5AJ0: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 7SXF: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5IB1: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7A5P: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8QP8: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5VYC: ('Connection broken: IncompleteRead(17418417 bytes read, 6949403 more expected)', IncompleteRead(17418417 bytes read, 6949403 more expected))
+No matching chain found in 8ZFJ for UniProt P62873
+No matching chain found in 2G57 for UniProt P35222
+Error processing 7AFW: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 2WWZ: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7K95: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 5E6V: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 6C24: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Max retries exceeded with url: /pdbe/api/mappings/uniprot/6c24 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2426)')))
+No matching chain found in 5IJ8 for UniProt Q15910
+Error processing 8J07: ('Connection broken: IncompleteRead(11270050 bytes read, 58449528 more expected)', IncompleteRead(11270050 bytes read, 58449528 more expected))
+Error processing 3GSX: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Max retries exceeded with url: /pdbe/api/mappings/uniprot/3gsx (Caused by SSLError(SSLZeroReturnError(6, 'TLS/SSL connection has been closed (EOF) (_ssl.c:1007)')))
+No matching chain found in 3TO2 for UniProt P04439
+No matching chain found in 3O4L for UniProt P04439
+No matching chain found in 6ID4 for UniProt P04439
+No matching chain found in 3DTX for UniProt P01889
+No matching chain found in 3KPN for UniProt P01889
+Error processing 8J07: ('Connection broken: IncompleteRead(11756769 bytes read, 57962809 more expected)', IncompleteRead(11756769 bytes read, 57962809 more expected))
+No matching chain found in 6PYJ for UniProt P01889
+No matching chain found in 6V62 for UniProt P60709
+No matching chain found in 6WK1 for UniProt P60709
+No matching chain found in 6WK2 for UniProt P60709
+No matching chain found in 6V63 for UniProt P60709
+Error processing 7YWX: HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Max retries exceeded with url: /pdbe/api/mappings/uniprot/7ywx (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:2426)')))
+Error processing 7UNG: ('Connection broken: IncompleteRead(16737718 bytes read, 10640552 more expected)', IncompleteRead(16737718 bytes read, 10640552 more expected))
+Error processing 8FLA: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 6ZP4: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8TS9: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 3OBQ: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 5OOB for UniProt P18615
+No matching chain found in 2F1Y for UniProt Q00987
+Error processing 2XEW: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 2Y5B for UniProt P0CG48
+No matching chain found in 3ZLZ for UniProt P0CG48
+No matching chain found in 3ZNH for UniProt P0CG48
+No matching chain found in 3I3T for UniProt P0CG48
+No matching chain found in 3PRM for UniProt P0CG48
+No matching chain found in 3OJ3 for UniProt P0CG48
+No matching chain found in 4WZP for UniProt P0CG48
+No matching chain found in 5AIT for UniProt P0CG48
+No matching chain found in 2KHW for UniProt P0CG48
+Error processing 5VYC: ('Connection broken: IncompleteRead(15548596 bytes read, 8819224 more expected)', IncompleteRead(15548596 bytes read, 8819224 more expected))
+No matching chain found in 5A5B for UniProt P0CG48
+No matching chain found in 4XHS for UniProt P59046
+Error processing 6XA1: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 8G61: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 1A93: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 4KN2: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8J07: ('Connection broken: IncompleteRead(35339119 bytes read, 34380459 more expected)', IncompleteRead(35339119 bytes read, 34380459 more expected))
+Error processing 6PGQ: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 8PW8 for UniProt Q86U44
+Error processing 3TKU: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 6I4X for UniProt P19235
+Error processing 5AN4: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 2HTG for UniProt P19634
+No matching chain found in 5UC1 for UniProt P04150
+Error processing 6D5E: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 3MFV: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 8J07: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5T2C: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7SXH: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 4KMD: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7T91: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 4V6X: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 6IP8: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 5VYC: ('Connection broken: IncompleteRead(11799095 bytes read, 12568725 more expected)', IncompleteRead(11799095 bytes read, 12568725 more expected))
+No matching chain found in 8GDT for UniProt P37173
+Error processing 1BPX: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 1MQ2: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8GZ3: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8J07: ('Connection broken: IncompleteRead(9636357 bytes read, 60083221 more expected)', IncompleteRead(9636357 bytes read, 60083221 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(9636357 bytes read, 60083221 more expected)', IncompleteRead(9636357 bytes read, 60083221 more expected))
+Error processing 2KI9: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 4X3S: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+No matching chain found in 3N32 for UniProt P62979
+No matching chain found in 3N30 for UniProt P62979
+No matching chain found in 3K9P for UniProt P62979
+Error processing 5T2C: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+No matching chain found in 3VDZ for UniProt P62979
+No matching chain found in 3NS8 for UniProt P62979
+No matching chain found in 3PHD for UniProt P62979
+Error processing 6ZM7: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 3I3T for UniProt P62979
+No matching chain found in 2KWV for UniProt P62979
+No matching chain found in 2KWU for UniProt P62979
+No matching chain found in 2KHW for UniProt P62979
+Error processing 5VYC: ('Connection broken: IncompleteRead(13172736 bytes read, 11195084 more expected)', IncompleteRead(13172736 bytes read, 11195084 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(39389276 bytes read, 30330302 more expected)', IncompleteRead(39389276 bytes read, 30330302 more expected))
+Error processing 7UNG: ('Connection broken: IncompleteRead(9167496 bytes read, 18210774 more expected)', IncompleteRead(9167496 bytes read, 18210774 more expected))
+Error processing 8FKX: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 7OW7: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 8IE3: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 8J07: ('Connection broken: IncompleteRead(12264451 bytes read, 57455127 more expected)', IncompleteRead(12264451 bytes read, 57455127 more expected))
+Error processing 5C9Z: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 6RLL: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7KIC: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 1DZG: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8VET: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 7UYF: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 5H1U: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5H1V: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 2ANT: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 7B9X: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 1NQ9: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 7C5D: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 4YBT: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 5QU5: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5QU8: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8J07: ('Connection broken: IncompleteRead(12264451 bytes read, 57455127 more expected)', IncompleteRead(12264451 bytes read, 57455127 more expected))
+Error processing 8I3J: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+No matching chain found in 1N4P for UniProt P61225
+No matching chain found in 1N4Q for UniProt P61225
+No matching chain found in 1N4R for UniProt P61225
+Error processing 8J07: ('Connection broken: IncompleteRead(39389276 bytes read, 30330302 more expected)', IncompleteRead(39389276 bytes read, 30330302 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(20500676 bytes read, 49218902 more expected)', IncompleteRead(20500676 bytes read, 49218902 more expected))
+No matching chain found in 2KOX for UniProt P62979
+Error processing 8J07: ('Connection broken: IncompleteRead(39389276 bytes read, 30330302 more expected)', IncompleteRead(39389276 bytes read, 30330302 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(12040996 bytes read, 57678582 more expected)', IncompleteRead(12040996 bytes read, 57678582 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(39389276 bytes read, 30330302 more expected)', IncompleteRead(39389276 bytes read, 30330302 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(12040996 bytes read, 57678582 more expected)', IncompleteRead(12040996 bytes read, 57678582 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(12040996 bytes read, 57678582 more expected)', IncompleteRead(12040996 bytes read, 57678582 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(16775338 bytes read, 52944240 more expected)', IncompleteRead(16775338 bytes read, 52944240 more expected))
+Error processing 7UNG: ('Connection broken: IncompleteRead(17835804 bytes read, 9542466 more expected)', IncompleteRead(17835804 bytes read, 9542466 more expected))
+No matching chain found in 4Q3H for UniProt P25025
+No matching chain found in 5TYT for UniProt P25025
+Error processing 6Y0G: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7MQA: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8PJ6: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8J07: ('Connection broken: IncompleteRead(12019926 bytes read, 57699652 more expected)', IncompleteRead(12019926 bytes read, 57699652 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(14322779 bytes read, 55396799 more expected)', IncompleteRead(14322779 bytes read, 55396799 more expected))
+Error processing 4K30: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7OG4: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 6TUZ: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 7B3I: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 5YU7: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+Error processing 8J07: ('Connection broken: IncompleteRead(14322779 bytes read, 55396799 more expected)', IncompleteRead(14322779 bytes read, 55396799 more expected))
+Error processing 7BD6: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7BNE: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 8BSP: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 2ZME: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 1BO1: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7S47: HTTPSConnectionPool(host='files.rcsb.org', port=443): Read timed out. (read timeout=10)
+Error processing 7UNG: ('Connection broken: IncompleteRead(8733965 bytes read, 18644305 more expected)', IncompleteRead(8733965 bytes read, 18644305 more expected))
+Error processing 7UNG: ('Connection broken: IncompleteRead(24531390 bytes read, 2846880 more expected)', IncompleteRead(24531390 bytes read, 2846880 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(10516908 bytes read, 59202670 more expected)', IncompleteRead(10516908 bytes read, 59202670 more expected))
+Error processing 8J07: ('Connection broken: IncompleteRead(12976978 bytes read, 56742600 more expected)', IncompleteRead(12976978 bytes read, 56742600 more expected))

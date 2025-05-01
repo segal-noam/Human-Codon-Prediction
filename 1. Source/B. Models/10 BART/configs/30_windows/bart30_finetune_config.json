@@ -1,0 +1,33 @@
+{
+    "Description": "This is a fine-tuning configuration for codon prediction model based on BART language model.",
+    "project_name": "Human Codon Prediction",
+    "dataset_path": "./data/dataset/dataset_30/",
+    "model_outpath": "./models/bart30/finetune",
+    "mfc_data_path": "./data/0_train_50.json.csv",
+    "model_name": "Finetune_30_HumanCodonPrediction",
+    "tokenizer_path": "./tokenizer/",
+    "checkpoint_flag": true,
+    "checkpoint_path": "./models/bart30/finetune/best_model",
+    "finetune_flag": true,
+    "special_token_lower_threshold": 64,
+    "aa_window_size": 30,
+    "model_config": {
+        "vocab_size": 97,
+        "max_position_embeddings": 512,
+        "d_model": 256,
+        "attention_layers": 6,
+        "attention_heads": 8,
+        "ffn_dim": 256
+    },
+    "train_config": {
+        "starting_lr": 0.0001,
+        "mask_perc": 1.0,
+        "batch_size": 32,
+        "warmup_steps": 15000,
+        "steps": 150000,
+        "label_smoothing_factor": 0.15,
+        "logging_steps": 500,
+        "decoder_noise": 0.15,
+        "seed": 42
+    }
+}
