@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 10/29/2024 11:04:14
+New DB name:   /code/proteins_human_70_representatives_db
+New DB title:  proteins_human_70_representatives.fasta
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 17242 sequences in 0.40216 seconds.
+
+
